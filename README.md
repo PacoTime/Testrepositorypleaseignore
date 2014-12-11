@@ -1,0 +1,4 @@
+Testrepositorypleaseignore
+==========================
+
+myFirstRepository
